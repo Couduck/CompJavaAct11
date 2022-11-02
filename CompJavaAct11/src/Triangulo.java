@@ -38,8 +38,6 @@ public class Triangulo implements Forma
         return this.base;
     }
 
-
-    //Getters
     public double getLado2()
     {
         return this.lado2;
